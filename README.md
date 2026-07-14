@@ -1,4 +1,4 @@
-# Otimização de Forecast de Matéria-Prima Importada (ERP para BI)
+# Otimização de Forecast de Matéria-Prima Importada
 
 📌 O Desafio de Negócio
 O time de Planejamento de Necessidades de Materiais (MRP) sofria com um processo altamente moroso e manual para gerenciar o forecast de matérias-primas importadas. Diariamente, a equipe extraía múltiplos relatórios sistêmicos para consolidar dados em pesadas planilhas de Excel. Além do alto custo em horas operacionais, essa arquitetura descentralizada abria margem para rupturas de estoque ou superávit de insumos importados, o que impactava diretamente o fluxo de caixa e o planejamento fabril.
