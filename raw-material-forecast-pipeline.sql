@@ -272,7 +272,7 @@ calculo_acumulado AS (
 )
 
 -- ===================================================================================
--- 6. QUERY FINAL: Projeção Analítica Pronta para BI
+-- 6. QUERY FINAL: Projeção Analítica Pronta
 -- ===================================================================================
 SELECT empresa_id,
        acessorio_matriz,
