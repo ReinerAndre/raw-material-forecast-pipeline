@@ -20,7 +20,7 @@ graph LR
     E -->|Running Totals| F["Visão Consolidada"]
     F -->|Conexão Direta| G["Ferramenta de BI (Dashboard)"]
 ```
-🛠️ A Solução Técnica
+## 🛠️ A Solução Técnica
 
 Modularização Avançada com CTEs: O fluxo foi dividido logicamente (Base de matrizes, cálculo de demandas, unificação temporal) para facilitar a manutenção e leitura.
 
@@ -30,7 +30,7 @@ Expansão Temporal (LATERAL JOIN): Abordagem otimizada para projetar meses futur
 
 Window Functions (SUM OVER, LAG): Empregadas para calcular o saldo acumulado (Running Total) e resgatar saldos iniciais projetados, com processamento em memória muito superior a sub-queries correlacionadas.
 
-🚀 Impacto Esperado (ou Real)
+## 🚀 Impacto Esperado (ou Real)
 
 Eficiência Operacional: Redução radical do tempo gasto em tarefas operacionais, mitigando a consolidação de planilhas.
 
